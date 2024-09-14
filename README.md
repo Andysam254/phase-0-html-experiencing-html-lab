@@ -235,14 +235,6 @@ Here's the full example code:
 
 ```html
 <h1>My Plant List</h1>
-<p>Some of my favorite plants!</p>
-<ul>
-  <li>"Monstera deliciosa"</li>
-  <li>"Fiddle Leaf Fig"</li>
-  <li>"Pilea"</li>
-  <li>"Golden Pothos"</li>
-  <li>"Peace Lily"</li>
-</ul>
 ```
 
 ![Final Document - unordered list with Header and title ](https://curriculum-content.s3.amazonaws.com/phase-0/html-experiencing-html-lab/final_list.png)
